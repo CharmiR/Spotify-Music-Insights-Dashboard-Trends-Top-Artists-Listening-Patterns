@@ -37,9 +37,9 @@ Monthly count of distinct songs played
 
 📈 Core KPIs
 
-789 distinct songs
-342 unique artists
-3.28 min average song duration
-90 average popularity rating
+789 distinct songs,
+342 unique artists,
+3.28 min average song duration,
+90 average popularity rating,
 Monthly listening volume trend
 
